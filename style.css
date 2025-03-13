@@ -1,0 +1,92 @@
+div>h2{
+    justify-content: left;
+    text-align: center;
+    color:white;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#tabledetails{
+    text-align: center;
+    background-color: lightgreen;
+    border-radius: 12px;
+    margin: 12px;
+    padding: 12px;
+    border-width: 25px;
+    border: 12px;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-color: blueviolet;
+    border-width: 12px;
+    width: 50%;
+    font-size: 18px;
+    border-color: black;
+    border-width: 20px;
+    justify-content: center;
+
+}
+
+tr{
+    border: 5px;
+}
+ 
+button:hover{
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#buttonadd{
+    background-color: aqua;
+    font-weight: bold;
+}
+
+#buttonedit{
+    background-color: lightseagreen;
+    font-weight: bold;
+}
+
+#buttondelete{
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#id{
+    border: 12px;
+    background-color: aqua;
+    font-weight: bold;
+}
+#task{
+    border: 12px;
+    background-color: aqua;
+    font-weight: bold;
+}
+#time{
+    border: 12px;
+    background-color: aqua;
+    font-weight: bold;
+}
+body{
+    background-color: black;
+    font-weight: bold;
+}
+.table{
+    background-color: aqua;
+    font-size: 18px;
+    border-color: black;
+    border-width: 20px;
+    justify-content: center;
+  
+  }
+  tbody tr:nth-child(odd){
+    background-color: #f0f8ff;
+    
+  }
+  tbody tr:nth-child(even){
+    background-color:paleturquoise;
+  }
+  
+  .container{
+    font-family: 'Times New Roman', Times, serif;
+  }
